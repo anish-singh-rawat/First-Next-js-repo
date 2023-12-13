@@ -10,6 +10,12 @@
   color: rgb(242, 1, 1);
   transition: 0.2s;
 }
+@media (min-width: 768px) {
+  .blog-container{
+    width: 75%;
+    margin: auto;
+  }
+}
 
 @media (max-width: 768px) {
   .nav-box {

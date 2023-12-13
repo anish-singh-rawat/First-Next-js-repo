@@ -2,5 +2,5 @@
   "subject": "Python",
   "title": "Multi-paradigm: object-oriented, procedural (imperative), functional, structured, reflective",
   "content": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming",
-  "authour": "Anish singh rawat"
+  "slug": ".A slug is a string that can only include characters, numbers, dashes, and underscores."
 }
